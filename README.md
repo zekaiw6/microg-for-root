@@ -1,2 +1,2 @@
-# microg-for-root
-microg for Magisk/Kernelsu/Apatch
+# microG-for-root
+microG for Magisk/Kernelsu/Apatch
